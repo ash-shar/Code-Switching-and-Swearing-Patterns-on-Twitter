@@ -5,7 +5,7 @@ import codecs
 #import urllib.request
 import binascii
 import os
-from multiprocessing import Process,Manager
+# from multiprocessing import Process,Manager
 
 path = "/home/bt1/13CS10060/socompProject/finalPublish/mappedData"
 
